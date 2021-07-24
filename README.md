@@ -17,7 +17,7 @@
 
 - 📫 Reach me on <a href="mailto:bhatnagar1102abhivansh@gmail.com" alt="Contact me"><img src='https://raw.githubusercontent.com/nativefier/nativefier-icons/gh-pages/files/gmail.png' alt='Gmail' height='20'></a>
 
-- ⚡ Fun fact **I hate frontend**
+- ⚡ Fun fact **I love racing**
 
 
 <h3 align="left">Connect with me on Social Media-</h3>
@@ -199,14 +199,14 @@
     />
   </a>
     
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
+<!--   <a href="https://visualstudio.microsoft.com/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"
       alt="C"
       width="40"
       height="40"
     />
-  </a>
+  </a> -->
   
 
 
